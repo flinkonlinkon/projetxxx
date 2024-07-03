@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+
+    height: 50px;
+    width: 500px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.mm{
+    position: relative;
+    top: 0px;
+    left: 250px;
+
+}
+.si{
+    position: relative;
+    top: 0px;
+    left: 323px;
+
+}
+.pic{
+    
+    image-resolution: 500px
+    ;
+    
+}
